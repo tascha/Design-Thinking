@@ -2,8 +2,8 @@
 
 This section provides an introduction to the basic principles of design thinking.
 
-| **LEARNING OBJECTIVES FOR THIS SECTION** |
-| --- |
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
+After completing Section 1: Introduction, you will be able to...<ul><li>Describe design thinking and the design thinking process</li><li>Understand how design thinking relates to connected learning and to youth librarians</li></ul></div>
 
 Young people brainstorming and then sketching out imaginary homes inspired by books from local architects. Teens partnering with librarians and historical centers to create personal community maps and learn about their city’s history in the process. Librarians experimenting with new styles of programming and activities through “pop up programming” and then refining and improving delivery.
 

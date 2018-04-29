@@ -1,7 +1,6 @@
 ## Imagination {#imagination}
 
-| **_“Designers engage with users (people!) to understand their needs and gain insights about their lives.”_ (d.school, 2016)** |
-| --- |
+>“Designers engage with users (people!) to understand their needs and gain insights about their lives.”<br/> -- d.school, 2016
 
 The imagination phase of the design process centers on understanding the people who may use your new design or experience. By observing and talking to people, you may find inspiration for new initiatives, uncover hidden challenges, or gain more insight into a community. Below are key research methods for exploring unfamiliar communities as well as understanding the people you want to impact.
 
@@ -9,8 +8,8 @@ The imagination phase of the design process centers on understanding the people 
 
 Look around you. What would you or youth like to change or improve about your library or community ? The research method of observation—watching how people behave and interact within spaces and places—can uncover needs of others, capture the context, and guide innovation efforts (d.school steps, 2016).
 
-| **OBSERVATION IN ACTION: LISTENING IN COMMUNITY SPACES** |
-| --- |
+<div class="table-format case-study"><span class="title"><h5>OBSERVATION IN ACTION: LISTENING IN COMMUNITY SPACES</h5></span>
+Paul, a youth librarian at an urban, Northwestern library, discussed his approach to learning about youth interests by observing the culture of his community. He said: “I could be standing next to groups of teens outside of the movie theater, and always listening to the conversations to...the themes that they're talking about.” He also investigated the local entertainment industry, noting his community’s DJ culture. “Look, it's an entertainment industry, there's a lot of DJs in town. Why don't we start creating our own DJs?" </div>
 
 ### Interviewing Target Communities and Leveraging Community Partners {#interviewing-target-communities-and-leveraging-community-partners}
 
@@ -23,15 +22,13 @@ Here are few general tips for both formal or informal interviews:
 *   **Encourage stories and anecdotes.** Questions for eliciting stories might be: “Tell me about a time when…” or “What was your experience in integrating this technology?”
 *   **Attempt to interview people in the context and environment in which they live or work.** Write down notes about the surroundings and body language.
 
-| **INTERVIEWING TARGET COMMUNITIES IN ACTION: LEVERAGING COMMUNITY PARTNERSHIPS** |
-| --- |
+<div class="table-format case-study"><span class="title"><h5>INTERVIEWING TARGET COMMUNITIES IN ACTION: LEVERAGING COMMUNITY PARTNERSHIPS</h5></span>Vanessa, a youth librarian at a suburban, Southern library focuses on involving community stakeholders in the process to understand her community. She says that she brainstorms with teens first and then brings their ideas to other partners for advice. She offers: “....even having the teens talk to other people in the community about, "Hey, what do you see as a need?" And, "Is this a good idea? Do you think from your perspective as a program manager at a Boys and Girls Club that this will be something that teens you know would be interested in?"</div>
 
 ### Interviewing Experts {#interviewing-experts}
 
 Interviewing experts is another way for both you and youth to become inspired by the experiences of others. You might think about interviewing someone with deep experience or knowledge in a relevant area of your design challenge. Or perhaps your youth community has a hobby or career interest in a local industry or profession. For example, if teens are interested in a cooking or food project, you could speak with a professional chef (Cooper-Wright, 2015).
 
-| **INTERVIEWING EXPERTS IN ACTION: CONFRONTING THE LACK OF DIVERSITY IN LITERATURE** |
-| --- |
+<div class="table-format case-study"><span class="title"><h5>INTERVIEWING EXPERTS IN ACTION: CONFRONTING THE LACK OF DIVERSITY IN LITERATURE</h5></span>Teens at a suburban Pacific Northwest library with a large Asian population discovered a distinct issue with what they were reading for the YA book club. They came to youth librarians, wondering: “There's nobody in these books that's like me. Why not?” Given these questions, teens and librarians developed a diversity panel that included authors of books about diversity and a book publisher. During the panel interview with literature professionals they discussed a pressing question: <i>Why there isn't there more diversity in current literature?</i> Throughout the panel, the youth produced all their own questions and learned directly from experts about the challenges of the writing industry. </div>
 
 ### Participatory Design {#participatory-design}
 
